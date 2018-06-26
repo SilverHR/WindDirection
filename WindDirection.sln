@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindDirection", "WindDirection\WindDirection.csproj", "{6FBC73A9-E7D7-4C81-A198-9303A516B9C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWindDirection", "TestWindDirection\TestWindDirection.csproj", "{6931FFA1-AB4E-49E5-9EAD-C26DE77F493B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBC73A9-E7D7-4C81-A198-9303A516B9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBC73A9-E7D7-4C81-A198-9303A516B9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBC73A9-E7D7-4C81-A198-9303A516B9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBC73A9-E7D7-4C81-A198-9303A516B9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6931FFA1-AB4E-49E5-9EAD-C26DE77F493B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6931FFA1-AB4E-49E5-9EAD-C26DE77F493B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6931FFA1-AB4E-49E5-9EAD-C26DE77F493B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6931FFA1-AB4E-49E5-9EAD-C26DE77F493B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D1B864-5743-42C3-B7AC-83D731D314F0}
+	EndGlobalSection
+EndGlobal
