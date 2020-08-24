@@ -1,2 +1,2 @@
 # WindDirection
-Calculate average wind direction and covert result to wind rose 
+Calculate average wind direction and convert result to wind rose 
